@@ -1,7 +1,7 @@
 # Random API app
 https://randomuser.me/api/
 
-
+```bash
 Script Inicial como actividad
 
 import  { useState, useEffect, useCallback } from 'react';
@@ -61,3 +61,4 @@ function App () {
 }
 
 export default App;
+```
